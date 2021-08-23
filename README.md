@@ -5,8 +5,8 @@
 node index.js --action list
 ```
 
-| 1   | add | [--->click]() |
-| --- | --- | ------------- |
+| # 1 | add | [screenshot]() |
+| --- | --- | -------------- |
 
 ```shell
 # Получаем контакт по id
