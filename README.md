@@ -3,10 +3,10 @@
 | #   | action | screenshot |
 | --- | ------ | ---------- |
 
+```shell
 # Получаем и выводим весь список контактов в виде таблицы (console.table)
-
-| node index.js --action list |
-| --------------------------- |
+node index.js --action list
+```
 
 | 1   | add | [screenshot]() |
 | --- | --- | -------------- |
