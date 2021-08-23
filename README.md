@@ -5,18 +5,18 @@
 node index.js --action list
 ```
 
-| #   | action | screenshot      |
-| --- | ------ | --------------- |
-| 1   | add    | [-->click<--]() |
+| #   | action | screenshot   |
+| --- | ------ | ------------ |
+| 1   | add    | [-->click]() |
 
 ```shell
 # Получаем контакт по id
 node index.js --action get --id 5
 ```
 
-| #   | action | screenshot      |
-| --- | ------ | --------------- |
-| 2   | get    | [-->click<--]() |
+| #   | action | screenshot   |
+| --- | ------ | ------------ |
+| 2   | get    | [-->click]() |
 
 ```shell
 # Добавялем контакт
