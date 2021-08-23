@@ -14,9 +14,9 @@ node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-2
 node index.js --action remove --id=3
 ```
 
-| #   | action | screenshot |
-| --- | ------ | ---------- |
-| 1   | add    | [click]()  |
-| 2   | get    | [click]()  |
-| 3   | list   | [click]()  |
-| 4   | remove | [click]()  |
+| #   | action | screenshot   |
+| --- | ------ | ------------ |
+| 1   | add    | [-->click]() |
+| 2   | get    | [-->click]() |
+| 3   | list   | [-->click]() |
+| 4   | remove | [-->click]() |
