@@ -5,33 +5,33 @@
 node index.js --action list
 ```
 
-| #   | action | screenshot     |
-| --- | ------ | -------------- |
-| 1   | add    | [screenshot]() |
+| #   | action | screenshot |
+| --- | ------ | ---------- |
+| 1   | add    | [---->]()  |
 
 ```shell
 # Получаем контакт по id
 node index.js --action get --id 5
 ```
 
-| #   | action | screenshot     |
-| --- | ------ | -------------- |
-| 2   | get    | [screenshot]() |
+| #   | action | screenshot |
+| --- | ------ | ---------- |
+| 2   | get    | [---->]()  |
 
 ```shell
 # Добавялем контакт
 node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22
 ```
 
-| #   | action | screenshot     |
-| --- | ------ | -------------- |
-| 3   | list   | [screenshot]() |
+| #   | action | screenshot |
+| --- | ------ | ---------- |
+| 3   | list   | [---->]()  |
 
 ```shell
 # Удаляем контакт
 node index.js --action remove --id=3
 ```
 
-| #   | action | screenshot     |
-| --- | ------ | -------------- |
-| 4   | remove | [screenshot]() |
+| #   | action | screenshot |
+| --- | ------ | ---------- |
+| 4   | remove | [---->]()  |
