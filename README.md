@@ -1,11 +1,14 @@
 [Node.js] Homework #1
 
+| #   | action | screenshot |
+| --- | ------ | ---------- |
+
 ```shell
 # Получаем и выводим весь список контактов в виде таблицы (console.table)
 node index.js --action list
 ```
 
-| # 1 | add | [screenshot]() |
+| 1   | add | [screenshot]() |
 | --- | --- | -------------- |
 
 ```shell
@@ -13,24 +16,21 @@ node index.js --action list
 node index.js --action get --id 5
 ```
 
-| #   | action | screenshot    |
-| --- | ------ | ------------- |
-| 2   | get    | [--->click]() |
+| 2   | get | [screenshot]() |
+| --- | --- | -------------- |
 
 ```shell
 # Добавялем контакт
 node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22
 ```
 
-| #   | action | screenshot    |
-| --- | ------ | ------------- |
-| 3   | list   | [--->click]() |
+| 3   | list | [screenshot]() |
+| --- | ---- | -------------- |
 
 ```shell
 # Удаляем контакт
 node index.js --action remove --id=3
 ```
 
-| #   | action | screenshot    |
-| --- | ------ | ------------- |
-| 4   | remove | [--->click]() |
+| 4   | remove | [screenshot]() |
+| --- | ------ | -------------- |
