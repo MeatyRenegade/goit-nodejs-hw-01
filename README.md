@@ -1,30 +1,17 @@
 [Node.js] Homework #1
 
-````shell
+````bash
 # Получаем и выводим весь список контактов в виде таблицы (console.table)
-
-```bash
 node index.js --action list
-````
 
 # Получаем контакт по id
-
-```bash
 node index.js --action get --id 5
-```
 
 # Добавялем контакт
-
-```bash
 node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22
-```
 
 # Удаляем контакт
-
-```bash
 node index.js --action remove --id=3
-```
-
 ```
 | #   | action | screenshot                         |
 | --- | ------ | ---------------------------------- |
@@ -33,3 +20,4 @@ node index.js --action remove --id=3
 | 3   | add    | [-->click](https://ibb.co/BywTG1J) |
 | 4   | remove | [-->click](https://ibb.co/MfKbt9d) |
 ```
+````
